@@ -55,6 +55,7 @@ If you are looking for a front-end position, you might find these repositories *
 - [Frontdesk - Resources for Front End Developers](https://github.com/miripiruni/frontdesk)
 - [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 - [It doesn't get any more resourceful than **Sourceful**](https://github.com/sourceful) - organization with lots of useful public forks
+- [Internship guides](http://dreamjobinsider.com) - organization with lots of useful internship information
 
 ## Contribute!
 
